@@ -5,7 +5,6 @@
 
 - 🔭 I’m a Medical Student and Computer Science Student At 1337
 - - 🌱 I’m currently learning Medicine and C/C++/Javascript... 
-- 👯 I’m looking to collaborate on "LYTHON"
 - 📫 How to reach me:
 - instagram : AZ01_00
 - Email : azourgan0100@gmail.com
